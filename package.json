@@ -1,0 +1,40 @@
+{
+  "name": "datatables-excel-styles-npm-starter",
+  "version": "0.1.0",
+  "description": "Test Datatables Excel Styles npm repository",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently \"npx webpack\" \"npx serve dist/\""
+  },
+  "main": "src/index.js",
+  "author": "Paul Jones",
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "DataTables",
+    "buttons",
+    "excel",
+    "html5",
+    "export",
+    "style",
+    "styling",
+    "styles",
+    "theme",
+    "themes"
+  ],
+  "dependencies": {
+    "datatables-buttons-excel-styles": "^0.7.0",
+    "datatables.net-buttons-dt": "^1.6.2",
+    "datatables.net-dt": "^1.10.21",
+    "jszip": "^3.4.0"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "css-loader": "^3.5.3",
+    "file-loader": "^6.0.0",
+    "serve": "^11.3.1",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
