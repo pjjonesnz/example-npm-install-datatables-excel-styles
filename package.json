@@ -7,6 +7,7 @@
     "start": "concurrently \"npx webpack\" \"npx serve dist/\"",
     "version": "git add -A"
   },
+  "private": true,
   "main": "src/index.js",
   "author": "Paul Jones",
   "license": "MIT",
