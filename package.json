@@ -4,7 +4,8 @@
   "description": "Test Datatables Excel Styles npm repository",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "concurrently \"npx webpack\" \"npx serve dist/\""
+    "start": "concurrently \"npx webpack\" \"npx serve dist/\"",
+    "version": "git add -A"
   },
   "main": "src/index.js",
   "author": "Paul Jones",
