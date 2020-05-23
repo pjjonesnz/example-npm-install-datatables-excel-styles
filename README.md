@@ -10,3 +10,4 @@ To use this:
 4. `npm start`
 5. browse to localhost:5000 (or whatever port it starts on - shown in the terminal output)
 6. Click on the Excel button to try it out
+7. View the files in src/ 
