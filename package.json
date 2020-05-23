@@ -41,5 +41,9 @@
     "style-loader": "^1.2.1",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/pjjonesnz/example-npm-install-datatables-excel-styles/issues"
+  },
+  "homepage": "https://github.com/pjjonesnz/example-npm-install-datatables-excel-styles#readme"
 }
