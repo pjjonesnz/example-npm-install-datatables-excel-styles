@@ -23,6 +23,10 @@
     "theme",
     "themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjjonesnz/example-npm-install-datatables-excel-styles.git"
+  },
   "dependencies": {
     "datatables-buttons-excel-styles": "^0.7.0",
     "datatables.net-buttons-dt": "^1.6.2",
